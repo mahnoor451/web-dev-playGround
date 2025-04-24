@@ -3,4 +3,3 @@ My sandbox of beginner‑friendly HTML, CSS &amp; JavaScript mini‑projects as 
 <br>
 Author - Mahnoor (m.ishaq)
 
-watch tutorial on YouTube
